@@ -22,9 +22,7 @@ Mirror requires you to grant Screen Time authorization through Apple's system pe
 
 ## Mirror Premium
 
-Some of Mirror's features require Mirror Premium. The app shows which ones.
-
-Mirror Premium is available as a monthly or yearly auto-renewing subscription, or as a one-time lifetime purchase. Prices are shown in the app before you buy, in your local currency.
+After you set Mirror up, using it requires Mirror Premium. Mirror Premium is available as a monthly or yearly auto-renewing subscription, or as a one-time lifetime purchase. Prices are shown in the app before you buy, in your local currency.
 
 - Payment is charged to your Apple Account when you confirm the purchase.
 - A subscription renews automatically unless it is cancelled at least 24 hours before the end of the current period. Your account is charged for the renewal within the 24 hours before the current period ends.
@@ -32,6 +30,7 @@ Mirror Premium is available as a monthly or yearly auto-renewing subscription, o
 - If a free trial is offered, any unused part of it ends when you buy a subscription.
 - Deleting Mirror doesn't cancel a subscription.
 - A lifetime purchase is paid once and doesn't renew.
+- If your subscription ends, the rules you set keep running until you turn them off. You can turn them off in the app without paying. A strict hold, lock-in or No Take-Backs you chose still runs to its end first.
 
 ## Refunds
 
