@@ -26,7 +26,7 @@ A rating or a few words on the App Store helps other people find it: **[Rate Mir
 
 **How do I get a refund?** Purchases are made through Apple, and Apple handles refunds. Request one at **[reportaproblem.apple.com](https://reportaproblem.apple.com)**.
 
-**What happens to my rules when my subscription ends?** The next time you open Mirror, your rules switch off and your apps open as normal. Anything you locked in (a strict hold, a lock-in or No Take-Backs) runs to its end first. Your history and answers are kept, so starting again picks up where you were.
+**What happens to my rules when my subscription ends?** The next time you open Mirror, your rules switch off and your apps open as normal. Anything you locked in (a strict hold, a lock-in or No Take-Backs) runs to its end first. The apps you picked, your history and your answers are kept.
 
 ## Screen Time and blocking
 
