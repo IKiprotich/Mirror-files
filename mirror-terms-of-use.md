@@ -1,6 +1,6 @@
 # Terms of Use for Mirror
 
-**Last updated:** October 2, 2026
+**Last updated:** October 6, 2026
 
 These Terms of Use ("Terms") govern your use of Mirror ("the app"), developed by Ian Kiprotich, an individual developer based in Kenya. By downloading, installing, or using Mirror, you agree to these Terms.
 
@@ -34,7 +34,7 @@ After you set Mirror up, using it requires Mirror Premium. Mirror Premium is ava
 
 ## Refunds
 
-Purchases are made through Apple, and refunds are handled by Apple. You can request one at [reportaproblem.apple.com](https://reportaproblem.apple.com) or from Settings › Mirror Premium › Request a Refund in the app. Purchase records are kept by Apple and by RevenueCat, the service Mirror uses to record purchases (see the Privacy Policy).
+Purchases are made through Apple, and refunds are handled by Apple. You can request one at [reportaproblem.apple.com](https://reportaproblem.apple.com). Purchase records are kept by Apple and by RevenueCat, the service Mirror uses to record purchases (see the Privacy Policy).
 
 ## Acceptable use
 
