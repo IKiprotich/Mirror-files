@@ -30,7 +30,7 @@ After you set Mirror up, using it requires Mirror Premium. Mirror Premium is ava
 - If a free trial is offered, any unused part of it ends when you buy a subscription.
 - Deleting Mirror doesn't cancel a subscription.
 - A lifetime purchase is paid once and doesn't renew.
-- If your subscription ends, the rules you set keep running until you turn them off. You can turn them off in the app without paying. A strict hold, lock-in or No Take-Backs you chose still runs to its end first.
+- If your subscription ends, the rules you set switch off the next time you open Mirror, and your apps open as normal. A strict hold, lock-in or No Take-Backs you chose still runs to its end first. You never need to pay to have a rule removed. Your history and answers are kept.
 
 ## Refunds
 
