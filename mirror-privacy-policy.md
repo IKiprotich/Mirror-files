@@ -19,7 +19,7 @@ The one thing that leaves your phone is a record of any purchase you make. If yo
 
 This data is processed entirely on your device, inside Apple's Screen Time framework and Mirror's own app extensions. It is never transmitted anywhere.
 
-**Notifications.** If you turn on reminders, a daily goal or the Sunday recap, or start a free trial, Mirror asks permission to send local notifications. These are scheduled and delivered entirely on-device through Apple's notification system — Mirror does not use any push notification service or external server to send them.
+**Notifications.** If you turn on reminders, a daily goal or the Sunday recap, Mirror asks permission to send local notifications. These are scheduled and delivered entirely on-device through Apple's notification system — Mirror does not use any push notification service or external server to send them.
 
 **Your answers.** When you set Mirror up, it asks a few questions, such as your first name (optional), what you'd like more time for, and when your days start and end. Mirror uses your answers to suggest rules and to word things for you, for example on the screen shown when an app is held. They are stored only on your device and are never sent anywhere.
 
