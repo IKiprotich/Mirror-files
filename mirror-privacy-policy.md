@@ -29,6 +29,10 @@ This data is processed entirely on your device, inside Apple's Screen Time frame
 
 If you buy Mirror Premium, Apple processes the payment; Mirror never sees your payment details. Mirror uses RevenueCat, a subscription service, to record purchases, so we can see how many people subscribe. RevenueCat receives the purchase details (the plan, when it was bought, the price and currency), your device model and iOS version, your country, and a random ID created on your phone. It never receives your name, email, Screen Time data, history or answers, and we can't link a purchase to you. RevenueCat's privacy policy is at [revenuecat.com/privacy](https://www.revenuecat.com/privacy), and Apple's at [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
 
+### Things you choose to send
+
+**Feedback.** If you use Send Feedback, Mirror opens an email to us with your app version, iOS version and device model filled in. You can read and change all of it before sending, and nothing is sent unless you send it.
+
 ### A friend's key
 
 If you ask someone you trust to hold a key to your rules, they type a four-digit code on your phone. Mirror keeps only a scrambled (hashed) copy of it on your device and sends it nowhere.
@@ -40,11 +44,17 @@ If you ask someone you trust to hold a key to your rules, they type a four-digit
 - We do not sell your data. Apart from the purchase records described under Purchases, we do not share or transmit your data to any third party.
 - We do not have access to which specific apps you've selected to monitor — Apple's Screen Time framework deliberately keeps this information private even from the app requesting it, using privacy-preserving "opaque tokens" rather than exposing app identities to third-party developers.
 
-## Deleting your data
+## Data export and deletion
 
-Everything Mirror keeps is stored on your device. Uninstalling Mirror removes all of it, including your apps and rules, your answers, any Screen Time authorizations, shield configurations, and history records.
+You can export your history data at any time from Settings → Your Data → Export History, which generates a JSON file containing your local records for you to keep or delete as you wish.
 
-Purchase records are kept by Apple and RevenueCat, not on your device, so uninstalling Mirror doesn't remove them. The RevenueCat record isn't linked to you; if you'd like it removed, email us and we'll help.
+You can clear all locally stored history at any time from Settings → Your Data → Clear History. This permanently deletes your history data from your device.
+
+Settings → Your Data → Delete All Data removes your apps, rules, history and answers from your device.
+
+Purchase records are kept by Apple and RevenueCat, not on your device, so deleting data in Mirror doesn't remove them. The RevenueCat record isn't linked to you; if you'd like it removed, email us and we'll help.
+
+Uninstalling Mirror removes all app data from your device, including any Screen Time authorizations, shield configurations, and history records.
 
 ## Children's privacy
 
