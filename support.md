@@ -38,6 +38,12 @@ A rating or a few words on the App Store helps other people find it: **[Rate Mir
 
 **How do I make Mirror harder to switch off?** Set a Screen Time passcode that someone else knows, and turn on Lock Screen Time Settings. Mirror's Settings explains how.
 
+## Deleting Mirror
+
+**Turn your rules off before you delete the app.** Settings › Your Data › Delete All Data switches everything off and clears what Mirror keeps. If you delete the app while apps are still held, iOS can leave them blocked with Mirror gone.
+
+**Apps still blocked after deleting Mirror?** Install Mirror again and open it once: it releases everything it was holding as it starts up. You can then delete it.
+
 ## Your data
 
 Everything Mirror keeps stays on your iPhone. Settings › Your Data lets you export your history or delete it, and deleting the app removes everything. The [Privacy Policy](https://ikiprotich.github.io/Mirror-files/mirror-privacy-policy) and [Terms of Use](https://ikiprotich.github.io/Mirror-files/mirror-terms-of-use) have the details.
