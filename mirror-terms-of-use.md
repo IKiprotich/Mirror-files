@@ -1,6 +1,6 @@
 # Terms of Use for Mirror
 
-**Last updated:** October 6, 2026
+**Last updated:** October 7, 2026
 
 These Terms of Use ("Terms") govern your use of Mirror ("the app"), developed by Ian Kiprotich, an individual developer based in Kenya. By downloading, installing, or using Mirror, you agree to these Terms.
 
@@ -14,7 +14,7 @@ You must be able to form a binding contract to use Mirror. If you are using Mirr
 
 ## Your account and data
 
-Mirror does not require you to create an account. All data Mirror generates (history, settings, your answers) is stored locally on your device, as described in our [Privacy Policy](https://ikiprotich.github.io/Mirror-files/mirror-privacy-policy). Purchases are the exception: they are processed by Apple and recorded by RevenueCat. You are responsible for your device and for keeping it secure.
+Mirror does not require you to create an account. All data Mirror generates (history, settings, your answers) is stored locally on your device, as described in our [Privacy Policy](https://ikiprotich.github.io/Mirror-files/mirror-privacy-policy). Purchases are the exception: they are processed and recorded by Apple. You are responsible for your device and for keeping it secure.
 
 ## Screen Time permissions
 
@@ -34,7 +34,7 @@ After you set Mirror up, using it requires Mirror Premium. Mirror Premium is ava
 
 ## Refunds
 
-Purchases are made through Apple, and refunds are handled by Apple. You can request one at [reportaproblem.apple.com](https://reportaproblem.apple.com). Purchase records are kept by Apple and by RevenueCat, the service Mirror uses to record purchases (see the Privacy Policy).
+Purchases are made through Apple, and refunds are handled by Apple. You can request one at [reportaproblem.apple.com](https://reportaproblem.apple.com). Purchase records are kept by Apple.
 
 ## Acceptable use
 

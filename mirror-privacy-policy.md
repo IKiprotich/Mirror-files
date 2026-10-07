@@ -1,6 +1,6 @@
 # Privacy Policy for Mirror
 
-**Last updated:** October 6, 2026
+**Last updated:** October 7, 2026
 
 Mirror ("the app," "we," "our") is developed by Ian Kiprotich, an individual developer based in Kenya. This Privacy Policy explains what data Mirror accesses, how it's used, and what happens to it.
 
@@ -8,7 +8,7 @@ Mirror ("the app," "we," "our") is developed by Ian Kiprotich, an individual dev
 
 Mirror stores your Screen Time insights, history, settings and answers on your device. There are no Mirror servers and no analytics. We never see your Screen Time data, your app usage, or anything else Mirror works with — it stays on your phone.
 
-The one thing that leaves your phone is a record of any purchase you make. If you buy Mirror Premium, Apple processes the payment and RevenueCat, the service Mirror uses to record purchases, keeps a record of it. That record isn't linked to your name or email. See [Purchases](#purchases) below.
+If you buy Mirror Premium, Apple processes the payment and keeps the record of it. Mirror doesn't send it anywhere else. See [Purchases](#purchases) below.
 
 ## What Mirror accesses, and why
 
@@ -27,7 +27,7 @@ This data is processed entirely on your device, inside Apple's Screen Time frame
 
 ### Purchases
 
-If you buy Mirror Premium, Apple processes the payment; Mirror never sees your payment details. Mirror uses RevenueCat, a subscription service, to record purchases, so we can see how many people subscribe. RevenueCat receives the purchase details (the plan, when it was bought, the price and currency), your device model and iOS version, your country, and a random ID created on your phone. It never receives your name, email, Screen Time data, history or answers, and we can't link a purchase to you. RevenueCat's privacy policy is at [revenuecat.com/privacy](https://www.revenuecat.com/privacy), and Apple's at [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
+If you buy Mirror Premium, Apple processes the payment through the App Store; Mirror never sees your payment details. Mirror checks on your phone, with Apple, whether you have Premium, and sends no record of the purchase anywhere else. We see only the totals Apple reports to developers, which aren't linked to you. Apple's privacy policy is at [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
 
 ### Things you choose to send
 
@@ -40,8 +40,8 @@ If you ask someone you trust to hold a key to your rules, they type a four-digit
 ## What Mirror does not do
 
 - We do not operate any servers that receive your data.
-- We do not use any advertising or tracking SDKs, and nothing measures how you use the app. The one third-party SDK in Mirror is RevenueCat, which records purchases only.
-- We do not sell your data. Apart from the purchase records described under Purchases, we do not share or transmit your data to any third party.
+- We do not use any third-party SDKs: no advertising, no tracking, no analytics. Nothing measures how you use the app.
+- We do not sell, share or transmit your data to any third party.
 - We do not have access to which specific apps you've selected to monitor — Apple's Screen Time framework deliberately keeps this information private even from the app requesting it, using privacy-preserving "opaque tokens" rather than exposing app identities to third-party developers.
 
 ## Data export and deletion
@@ -52,7 +52,7 @@ You can clear all locally stored history at any time from Settings → Your Data
 
 Settings → Your Data → Delete All Data removes your apps, rules, history and answers from your device.
 
-Purchase records are kept by Apple and RevenueCat, not on your device, so deleting data in Mirror doesn't remove them. The RevenueCat record isn't linked to you; if you'd like it removed, email us and we'll help.
+Purchase records are kept by Apple with your Apple Account, so deleting data in Mirror doesn't remove them.
 
 Uninstalling Mirror removes all app data from your device, including any Screen Time authorizations, shield configurations, and history records.
 
